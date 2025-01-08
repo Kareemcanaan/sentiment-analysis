@@ -58,6 +58,6 @@ The models implemented include:
   ```bash
 pip install -r requirements.txt
 ```
-##Acknowledgements
+## Acknowledgements
 This project was based on the dissertation project of Nick Bispham
 Special thanks to Dr. Tingting Mu for guidance and Dr. Eghbal Rahimikia for assistance with finance-related queries.
