@@ -1,7 +1,9 @@
 # Using Natural Language Processing on News Data to Predict Share Prices
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Kareemcanaan/sentiment-analysis)
+## VERY IMPORTANT!
 
+when you click on the python file, open it in colab for better readability and usability
 ## Project Overview
 This project explores the use of **Natural Language Processing (NLP)** techniques for **financial sentiment analysis** to predict stock price movements. The goal is to automate the analysis a trader might perform when reading financial news articles and to determine whether a stock’s price will increase or decrease over the next 24 hours.
 
